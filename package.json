@@ -1,0 +1,13 @@
+{
+  "name": "com.maneuver.vim",
+  "version": "1.0.0",
+  "displayName": "Vim",
+  "description": "Open scripts with vim",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Ruilan Berg",
+    "email": "rui_berg@hotmail.com",
+    "url": "https://github.com/ruilanberg/unity-vim"
+  }
+}
